@@ -16,10 +16,10 @@ console.log(email.length)
 
 const str1 = "My "
 const str2 = "name "
-const str3 = "is "
+const str3 = "is"
 let fullName = str1 + str2 + str3
-fullName += "Viktor"
-console.log(fullName)
+// fullName += "Viktor"
+console.log(`${fullName} Viktor`)
 
 // -----4-----
 
